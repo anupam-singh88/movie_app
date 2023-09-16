@@ -20,3 +20,4 @@ This is a JavaScript project that creates a movie web application. The applicati
 3. Enter a movie name in the input box to view the search results.
 
 ## Url
+https://anupam-singh88.github.io/movie_app/
